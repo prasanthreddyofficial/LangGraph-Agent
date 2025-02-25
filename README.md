@@ -52,6 +52,4 @@ This project helps you check websites and networks for security issues. It:
 4. Generate the task list and run all tasks.
 5. View task logs and generate the final report.
 
-## License
 
-This project is licensed under the MIT License.
